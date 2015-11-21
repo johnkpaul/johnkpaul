@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Charlie Robbins, the person",
   "main": "index.json",
+  "bin": {
+    "indexzero": "./bin/indexzero"
+  },
   "scripts": {
     "postinstall": "cat index.json"
   },

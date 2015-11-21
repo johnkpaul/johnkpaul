@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+console.log('<about>');
+console.log(require('../'));
+console.log('</about>')
+
+console.log('<more status="pending" />');
