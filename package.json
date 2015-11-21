@@ -1,15 +1,16 @@
 {
-  "name": "johnkpaul",
+  "name": "indexzero",
   "version": "1.0.0",
-  "description": "John K. Paul, the person",
-  "main": "index.js",
+  "description": "Charlie Robbins, the person",
+  "main": "index.json",
   "scripts": {
-    "postinstall": "cat info.json"
+    "postinstall": "cat index.json"
   },
   "keywords": [
     "person",
-    "contact"
+    "contact",
+    "charlie robbins"
   ],
-  "author": "John K. Paul",
-  "license": "ISC"
+  "author": "Charlie Robbins",
+  "license": "MIT"
 }
